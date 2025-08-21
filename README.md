@@ -47,12 +47,6 @@ The goal is to explore classical and modern models, evaluate their performance, 
 - Deeper understanding of **imbalanced classification problems**.
 - Practical exposure to **ensemble learning, regularisation, and neural networks** in R.
 
----
-
-## 📂 Structure
-- `data/` – WinnData.csv (raw dataset, not included due to licensing).  
-- `scripts/` – R scripts for preprocessing, training, and evaluation.  
-- `results/` – Model outputs, plots, and metrics.
 
 ---
 
